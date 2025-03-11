@@ -148,13 +148,3 @@ This implementation draws inspiration from:
 ## Citation
 
 If you use this code in your research, please cite:
-
-```
-@misc{incomplete_ring_pet_reconstruction,
-  author = {Your Name},
-  title = {Deep Learning for Incomplete Ring PET Reconstruction},
-  year = {2025},
-  publisher = {GitHub},
-  howpublished = {\url{https://github.com/yourusername/incomplete-ring-pet}}
-}
-```
